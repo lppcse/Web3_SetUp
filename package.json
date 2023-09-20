@@ -1,0 +1,23 @@
+{
+  "name": "web3_setup",
+  "version": "1.0.0",
+  "description": "Web3 Env. Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lppcse/Web3_SetUp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lppcse/Web3_SetUp/issues"
+  },
+  "homepage": "https://github.com/lppcse/Web3_SetUp#readme",
+  "dependencies": {
+    "web3": "^0.20.6"
+  }
+}
